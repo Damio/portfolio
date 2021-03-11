@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>python on Dami Osayomi</title>
-    <link>https://example.com/tags/python/</link>
+    <link>https://damio.github.io/portfolio/tags/python/</link>
     <description>Recent content in python on Dami Osayomi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Feb 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://example.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Feb 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://damio.github.io/portfolio/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Glare detector</title>
-      <link>https://example.com/post/project-6/</link>
+      <link>https://damio.github.io/portfolio/post/project-6/</link>
       <pubDate>Fri, 19 Feb 2021 11:14:48 -0400</pubDate>
       
-      <guid>https://example.com/post/project-6/</guid>
+      <guid>https://damio.github.io/portfolio/post/project-6/</guid>
       <description>&lt;p&gt;This app was built as a possible solution to a problem provided by Caliber Data Labs.&lt;/p&gt;
 &lt;p&gt;This app recieved a POST request with some metadata from an image, and should return a response that verifies if there is a possibility that image has glare (i.e direct sun-glare conditions) in it or not.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Simple ETL</title>
-      <link>https://example.com/post/project-2/</link>
+      <link>https://damio.github.io/portfolio/post/project-2/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       
-      <guid>https://example.com/post/project-2/</guid>
+      <guid>https://damio.github.io/portfolio/post/project-2/</guid>
       <description>&lt;h3 id=&#34;namaste_challenge&#34;&gt;Namaste_challenge&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Task 1: Python. Data Manipulation and usage of external APIs&lt;/li&gt;
@@ -33,10 +33,10 @@
     
     <item>
       <title>Read human-written numbers</title>
-      <link>https://example.com/post/project-1/</link>
+      <link>https://damio.github.io/portfolio/post/project-1/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/project-1/</guid>
+      <guid>https://damio.github.io/portfolio/post/project-1/</guid>
       <description>&lt;p&gt;Part 1 - Create our model &amp;amp; upload to Azure
 Part 2 - Deploying model as web service&lt;/p&gt;</description>
     </item>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reddit on Dami Osayomi</title>
-    <link>https://example.com/tags/reddit/</link>
+    <link>https://damio.github.io/portfolio/tags/reddit/</link>
     <description>Recent content in Reddit on Dami Osayomi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Apr 2017 11:13:32 -0400</lastBuildDate><atom:link href="https://example.com/tags/reddit/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Apr 2017 11:13:32 -0400</lastBuildDate><atom:link href="https://damio.github.io/portfolio/tags/reddit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Social bot</title>
-      <link>https://example.com/post/project-3/</link>
+      <link>https://damio.github.io/portfolio/post/project-3/</link>
       <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
       
-      <guid>https://example.com/post/project-3/</guid>
+      <guid>https://damio.github.io/portfolio/post/project-3/</guid>
       <description>&lt;p&gt;A simple web application that will post on both twitter and Reddit&lt;/p&gt;</description>
     </item>
     

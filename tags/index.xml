@@ -2,152 +2,152 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dami Osayomi</title>
-    <link>https://example.com/tags/</link>
+    <link>https://damio.github.io/portfolio/tags/</link>
     <description>Recent content in Tags on Dami Osayomi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Feb 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Feb 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://damio.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>flask</title>
-      <link>https://example.com/tags/flask/</link>
+      <link>https://damio.github.io/portfolio/tags/flask/</link>
       <pubDate>Fri, 19 Feb 2021 11:14:48 -0400</pubDate>
       
-      <guid>https://example.com/tags/flask/</guid>
+      <guid>https://damio.github.io/portfolio/tags/flask/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTML</title>
-      <link>https://example.com/tags/html/</link>
+      <link>https://damio.github.io/portfolio/tags/html/</link>
       <pubDate>Fri, 19 Feb 2021 11:14:48 -0400</pubDate>
       
-      <guid>https://example.com/tags/html/</guid>
+      <guid>https://damio.github.io/portfolio/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>javascript</title>
-      <link>https://example.com/tags/javascript/</link>
+      <link>https://damio.github.io/portfolio/tags/javascript/</link>
       <pubDate>Fri, 19 Feb 2021 11:14:48 -0400</pubDate>
       
-      <guid>https://example.com/tags/javascript/</guid>
+      <guid>https://damio.github.io/portfolio/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>https://example.com/tags/python/</link>
+      <link>https://damio.github.io/portfolio/tags/python/</link>
       <pubDate>Fri, 19 Feb 2021 11:14:48 -0400</pubDate>
       
-      <guid>https://example.com/tags/python/</guid>
+      <guid>https://damio.github.io/portfolio/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>django, python, sqlite</title>
-      <link>https://example.com/tags/django-python-sqlite/</link>
+      <link>https://damio.github.io/portfolio/tags/django-python-sqlite/</link>
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
       
-      <guid>https://example.com/tags/django-python-sqlite/</guid>
+      <guid>https://damio.github.io/portfolio/tags/django-python-sqlite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>API</title>
-      <link>https://example.com/tags/api/</link>
+      <link>https://damio.github.io/portfolio/tags/api/</link>
       <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
       
-      <guid>https://example.com/tags/api/</guid>
+      <guid>https://damio.github.io/portfolio/tags/api/</guid>
       <description></description>
     </item>
     
     <item>
       <title>data</title>
-      <link>https://example.com/tags/data/</link>
+      <link>https://damio.github.io/portfolio/tags/data/</link>
       <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
       
-      <guid>https://example.com/tags/data/</guid>
+      <guid>https://damio.github.io/portfolio/tags/data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reddit</title>
-      <link>https://example.com/tags/reddit/</link>
+      <link>https://damio.github.io/portfolio/tags/reddit/</link>
       <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
       
-      <guid>https://example.com/tags/reddit/</guid>
+      <guid>https://damio.github.io/portfolio/tags/reddit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Twitter</title>
-      <link>https://example.com/tags/twitter/</link>
+      <link>https://damio.github.io/portfolio/tags/twitter/</link>
       <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
       
-      <guid>https://example.com/tags/twitter/</guid>
+      <guid>https://damio.github.io/portfolio/tags/twitter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SQL</title>
-      <link>https://example.com/tags/sql/</link>
+      <link>https://damio.github.io/portfolio/tags/sql/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       
-      <guid>https://example.com/tags/sql/</guid>
+      <guid>https://damio.github.io/portfolio/tags/sql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tableau</title>
-      <link>https://example.com/tags/tableau/</link>
+      <link>https://damio.github.io/portfolio/tags/tableau/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       
-      <guid>https://example.com/tags/tableau/</guid>
+      <guid>https://damio.github.io/portfolio/tags/tableau/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Azure</title>
-      <link>https://example.com/tags/azure/</link>
+      <link>https://damio.github.io/portfolio/tags/azure/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/tags/azure/</guid>
+      <guid>https://damio.github.io/portfolio/tags/azure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cloud</title>
-      <link>https://example.com/tags/cloud/</link>
+      <link>https://damio.github.io/portfolio/tags/cloud/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/tags/cloud/</guid>
+      <guid>https://damio.github.io/portfolio/tags/cloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computer Vision</title>
-      <link>https://example.com/tags/computer-vision/</link>
+      <link>https://damio.github.io/portfolio/tags/computer-vision/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/tags/computer-vision/</guid>
+      <guid>https://damio.github.io/portfolio/tags/computer-vision/</guid>
       <description></description>
     </item>
     
     <item>
       <title>drone, python, opencv, matlab</title>
-      <link>https://example.com/tags/drone-python-opencv-matlab/</link>
+      <link>https://damio.github.io/portfolio/tags/drone-python-opencv-matlab/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/tags/drone-python-opencv-matlab/</guid>
+      <guid>https://damio.github.io/portfolio/tags/drone-python-opencv-matlab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning</title>
-      <link>https://example.com/tags/machine-learning/</link>
+      <link>https://damio.github.io/portfolio/tags/machine-learning/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/tags/machine-learning/</guid>
+      <guid>https://damio.github.io/portfolio/tags/machine-learning/</guid>
       <description></description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>drone, python, opencv, matlab on Dami Osayomi</title>
-    <link>https://example.com/tags/drone-python-opencv-matlab/</link>
+    <link>https://damio.github.io/portfolio/tags/drone-python-opencv-matlab/</link>
     <description>Recent content in drone, python, opencv, matlab on Dami Osayomi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://example.com/tags/drone-python-opencv-matlab/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://damio.github.io/portfolio/tags/drone-python-opencv-matlab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Autonomous drone flight using Computer Vision</title>
-      <link>https://example.com/post/project-4/</link>
+      <link>https://damio.github.io/portfolio/post/project-4/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/project-4/</guid>
+      <guid>https://damio.github.io/portfolio/post/project-4/</guid>
       <description>&lt;p&gt;The goal here was to have a drone fly autonomously, while avoiding obstacles (flying through hoops), using Computer Vision
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
