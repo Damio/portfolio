@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>javascript on Dami Osayomi</title>
+    <link>https://example.com/tags/javascript/</link>
+    <description>Recent content in javascript on Dami Osayomi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Feb 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://example.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Glare detector</title>
+      <link>https://example.com/post/project-6/</link>
+      <pubDate>Fri, 19 Feb 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://example.com/post/project-6/</guid>
+      <description>&lt;p&gt;This app was built as a possible solution to a problem provided by Caliber Data Labs.&lt;/p&gt;
+&lt;p&gt;This app recieved a POST request with some metadata from an image, and should return a response that verifies if there is a possibility that image has glare (i.e direct sun-glare conditions) in it or not.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
